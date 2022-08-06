@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.decc31db.css",
-    "main.js": "/static/js/main.d94bcdce.js",
-    "index.html": "/index.html",
-    "main.decc31db.css.map": "/static/css/main.decc31db.css.map",
-    "main.d94bcdce.js.map": "/static/js/main.d94bcdce.js.map"
+    "main.css": "/dkdojo/static/css/main.decc31db.css",
+    "main.js": "/dkdojo/static/js/main.d94bcdce.js",
+    "index.html": "/dkdojo/index.html",
+    "main.decc31db.css.map": "/dkdojo/static/css/main.decc31db.css.map",
+    "main.d94bcdce.js.map": "/dkdojo/static/js/main.d94bcdce.js.map"
   },
   "entrypoints": [
     "static/css/main.decc31db.css",
